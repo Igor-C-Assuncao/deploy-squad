@@ -1,4 +1,4 @@
-# Antigravity Council 🚀
+# Antigravity Council Deploy Squad 🚀
 
 [![Antigravity](https://img.shields.io/badge/Framework-Antigravity%202.0-blueviolet)](https://cloud.google.com)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue)](https://www.python.org)
